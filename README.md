@@ -8,3 +8,5 @@
 # PlanetSide 2 ~ Türkçe Yama
 - PlanetSide 2 adlı oyuna Türkçe dil desteği ekler.
 - Kullanılmasında ve kendi diliniz için düzenlenmesinde hiç bir sakınca yoktur.
+
+Source: https://steamcommunity.com/sharedfiles/filedetails/?id=1574990585
