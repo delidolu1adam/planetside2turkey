@@ -4,10 +4,10 @@
 - Download the app: https://drive.google.com/drive/folders/0B_cukfssvcCpQnBlRnVkYTZ4Zms?usp=sharing
 - Steam guide: https://steamcommunity.com/sharedfiles/filedetails/?id=1574990585
 
-# How to install?
+- How to install?
 https://www.youtube.com/watch?v=JLbI10iuvj4
 
-########################################################################################
+################################################################################################
 
 # PlanetSide 2 ~ Türkçe Yama
 - PlanetSide 2 adlı oyuna Türkçe dil desteği ekler.
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=JLbI10iuvj4
 - Uygulamayı indir: https://drive.google.com/drive/folders/0B_cukfssvcCpQnBlRnVkYTZ4Zms?usp=sharing
 - Steam rehberi: https://steamcommunity.com/sharedfiles/filedetails/?id=1574990585
 
-# Nasıl kurulur?
+- Nasıl kurulur?
 https://www.youtube.com/watch?v=JLbI10iuvj4
 
 
