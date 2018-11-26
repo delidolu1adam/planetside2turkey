@@ -1,0 +1,20 @@
+C:\Users\Serhat\source\repos\PlanetSide2TR\PlanetSide2TR\bin\Debug\PlanetSide2TR.exe.config
+C:\Users\Serhat\source\repos\PlanetSide2TR\PlanetSide2TR\bin\Debug\PlanetSide2TR.exe
+C:\Users\Serhat\source\repos\PlanetSide2TR\PlanetSide2TR\bin\Debug\PlanetSide2TR.pdb
+C:\Users\Serhat\source\repos\PlanetSide2TR\PlanetSide2TR\obj\Debug\PlanetSide2TR.csprojAssemblyReference.cache
+C:\Users\Serhat\source\repos\PlanetSide2TR\PlanetSide2TR\obj\Debug\PlanetSide2TR.Properties.Resources.resources
+C:\Users\Serhat\source\repos\PlanetSide2TR\PlanetSide2TR\obj\Debug\PlanetSide2TR.csproj.GenerateResource.cache
+C:\Users\Serhat\source\repos\PlanetSide2TR\PlanetSide2TR\obj\Debug\PlanetSide2TR.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\source\repos\PlanetSide2TR\PlanetSide2TR\obj\Debug\PlanetSide2TR.exe
+C:\Users\Serhat\source\repos\PlanetSide2TR\PlanetSide2TR\obj\Debug\PlanetSide2TR.pdb
+C:\Users\Serhat\source\repos\PlanetSide2TR\PlanetSide2TR\obj\Debug\PlanetSide2TR.Form1.resources
+D:\DEPO\PlanetSide 2 Türkçe Yama\Source Codes\PlanetSide2TR\bin\Debug\PlanetSide2TR.exe.config
+D:\DEPO\PlanetSide 2 Türkçe Yama\Source Codes\PlanetSide2TR\bin\Debug\PlanetSide2TR.exe
+D:\DEPO\PlanetSide 2 Türkçe Yama\Source Codes\PlanetSide2TR\bin\Debug\PlanetSide2TR.pdb
+D:\DEPO\PlanetSide 2 Türkçe Yama\Source Codes\PlanetSide2TR\obj\Debug\PlanetSide2TR.csprojAssemblyReference.cache
+D:\DEPO\PlanetSide 2 Türkçe Yama\Source Codes\PlanetSide2TR\obj\Debug\PlanetSide2TR.Form1.resources
+D:\DEPO\PlanetSide 2 Türkçe Yama\Source Codes\PlanetSide2TR\obj\Debug\PlanetSide2TR.Properties.Resources.resources
+D:\DEPO\PlanetSide 2 Türkçe Yama\Source Codes\PlanetSide2TR\obj\Debug\PlanetSide2TR.csproj.GenerateResource.cache
+D:\DEPO\PlanetSide 2 Türkçe Yama\Source Codes\PlanetSide2TR\obj\Debug\PlanetSide2TR.csproj.CoreCompileInputs.cache
+D:\DEPO\PlanetSide 2 Türkçe Yama\Source Codes\PlanetSide2TR\obj\Debug\PlanetSide2TR.exe
+D:\DEPO\PlanetSide 2 Türkçe Yama\Source Codes\PlanetSide2TR\obj\Debug\PlanetSide2TR.pdb
