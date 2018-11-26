@@ -4,11 +4,17 @@
 # PlanetSide 2 ~ Turkish Language Patch
 - Adds Turkish language support to PlanetSide 2.
 - There is no harm in using it and arranging it for your own language.
-- Steam guide: https://steamcommunity.com/sharedfiles/filedetails/?id=1574990585
+
 - Download the app: https://drive.google.com/drive/folders/0B_cukfssvcCpQnBlRnVkYTZ4Zms?usp=sharing
+
+- Steam guide: https://steamcommunity.com/sharedfiles/filedetails/?id=1574990585
+- Virüs Scan: https://www.virustotal.com/tr/file/5a34e8bce52a44016352a1243a3b0600bf02e45d2d66a1f8a0019b2c020ea495/analysis/1543205835/
 
 # PlanetSide 2 ~ Türkçe Yama
 - PlanetSide 2 adlı oyuna Türkçe dil desteği ekler.
 - Kullanılmasında ve kendi diliniz için düzenlenmesinde hiç bir sakınca yoktur.
-- Steam rehberi: https://steamcommunity.com/sharedfiles/filedetails/?id=1574990585
+
 - Uygulamayı indir: https://drive.google.com/drive/folders/0B_cukfssvcCpQnBlRnVkYTZ4Zms?usp=sharing
+
+- Steam rehberi: https://steamcommunity.com/sharedfiles/filedetails/?id=1574990585
+- Virüs Taraması: https://www.virustotal.com/tr/file/5a34e8bce52a44016352a1243a3b0600bf02e45d2d66a1f8a0019b2c020ea495/analysis/1543205835/
